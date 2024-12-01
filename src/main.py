@@ -1,9 +1,6 @@
 import streamlit as st
-
 from extract_mails import fetch_emails
-from send_mails import send_email, create_message
 from manage_credentials import authenticate_user
-from ai_module import summarize_email
 from ai_prediction import Prediction
 from ai_voice_to_text import get_user_input
 from ai_text_to_voice import text_to_voice
