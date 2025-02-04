@@ -75,3 +75,4 @@ To authenticate your Streamlit application with Google Cloud services, you need 
 For further details please take a look at the official [Streamlit Secrets Management documentation](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/secrets-management).
 
 ## **Authors: Queen Mary University of London - Machine Learning Society (QMML)**
+#### **Names:** Stanisław Marć, Manuel Teres, Peng Yeh, Maxim Khovansky, Mariia Zimokha, Karl Johannes
