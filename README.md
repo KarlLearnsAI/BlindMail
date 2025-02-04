@@ -1,13 +1,13 @@
-# **BlindMail**
+# **InSightMail**
 ## **Empowering Communication for the Visually Impaired**
 
-BlindMail is thoughtfully crafted to enhance accessibility, enabling individuals who are blind to seamlessly manage and communicate through their Gmail inbox. Leveraging the advanced Gemma 2 model, BlindMail transforms email interaction into an intuitive and natural language experience.
+InSightMail is thoughtfully crafted to enhance accessibility, enabling individuals who are blind to seamlessly manage and communicate through their Gmail inbox. Leveraging the advanced Gemma 2 model, InSightMail transforms email interaction into an intuitive and natural language experience.
 
 ## **Key Features:**
 - Email Summarization: Quickly grasp the essence of your messages with concise and clear summaries.
 - Smart Email Responses: Effortlessly reply to emails using intelligent, context-aware suggestions.
 - AI-Powered Email Drafting: Compose well-articulated emails with the assistance of our sophisticated AI drafting tool.
-- Experience a more accessible and efficient way to stay connected with BlindMail—where technology meets inclusivity.
+- Experience a more accessible and efficient way to stay connected with InSightMail—where technology meets inclusivity.
 
 ## **Local & Online Re-Deployment using Streamlit**
 ### **Step 1: Create a Google Cloud Project**
